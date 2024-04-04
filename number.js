@@ -11,3 +11,5 @@ console.log(a,b,c,d);
 let e = 0.9999999999999999999;
 console.log(e);
 
+console.log(typeof Number);//function
+

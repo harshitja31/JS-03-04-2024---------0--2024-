@@ -20,3 +20,9 @@ let age = 19;
  let text = "Hello";
  text += " World!";
  console.log(text);//Hello World!
+
+ let a = 10;
+ let b = 5;
+
+ b = a;
+  console.log(b);
